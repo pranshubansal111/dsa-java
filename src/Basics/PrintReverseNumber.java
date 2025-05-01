@@ -2,6 +2,7 @@ package Basics;
 
 import java.util.Scanner;
 
+//code to print number in reverse
 public class PrintReverseNumber {
     public static void main(String[] args) {
         System.out.println("enter any number");
