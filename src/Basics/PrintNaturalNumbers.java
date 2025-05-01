@@ -3,7 +3,6 @@ package Basics;
 import java.util.Scanner;
 
 // code to print 'n' natural numbers
-
 public class PrintNaturalNumbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
