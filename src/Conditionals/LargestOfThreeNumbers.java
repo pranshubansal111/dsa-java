@@ -1,4 +1,4 @@
-package Basics;
+package Conditionals;
 
 import java.util.Scanner;
 
@@ -27,7 +27,7 @@ public class LargestOfThreeNumbers {
 
         //using ternary operator
         public static int largest1(int a, int b, int c){
-            int largestNumber = ( ((a>b)?a:b) > c )?((a>b)?a:b):c;
+            int largestNumber = ( ((a>b)?a:b) > c )? ((a>b)?a:b) : c;
             return largestNumber;
         }
 
